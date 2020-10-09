@@ -1,0 +1,8 @@
+{
+  "api": {
+    "commonApiRoot": "http://common.api.nsdhubvo1.ansitian.com/api/"
+  },
+  "googleRecaptcha": {
+    "key": "6LfjC6oUAAAAAJrZsSIwuyZvQrikDneKQBSx8yRQ"
+  }
+}

@@ -1,0 +1,91 @@
+ @media only screen and (max-width:1024px){
+ #branding-bg .heading { text-align: center; border-bottom: 2px dotted #ffffff; padding-top: 43%; position: absolute; left: 0px ! important; top: 0px ! important; } 
+ .nav-1 li a { font-size: 12px; padding: 0px 11px; } 
+ }
+
+ @media only screen and (max-width:768px){
+ .search-box { padding: 9px; } 
+ #particlesJs img { margin-top: 51%; } 
+ #particlesJs h1 { top: 52%; left: 57%; font-size: 1.4em; } 
+ #topProviderSection h3 { font-size: 1em; } 
+ .search-box p { 
+ text-align: unset; }
+
+ } 
+
+ @media only screen and (min-width:768px) and (max-width: 1024px){
+ .menuBtn { float: right; padding: 20px 7px 0px 0px; font-size: 1.9em; } 
+ .top-navi ul { display: contents; } 
+ #particlesJs #fromSearchResult { margin-top: 0%; } 
+ #branding-bg .heading { text-align: center; border-bottom: 2px dotted #ffffff; padding-top: 43%; position: absolute; left: 140%; } 
+ .btn-ac span.book { text-align: center; } 
+ #particlesJs { width: 100%; height: 500px; } 
+ #footer-top h5 { margin-left: 0px; } 
+ footer .footer-bottom img { float: none; display: block; margin: 0 auto; } 
+ #footer-top a.btn-ac { margin-top: 23px; float: right; font-size: 12px; } 
+ #contact-bg { background-image: url(/assets/images/contact-bg.jpg); background-size: contain; background-repeat: no-repeat; height: auto; padding-bottom: 0px; margin-top: 2px; } 
+ #banner-testi h1 { color: white; margin-top: 10%; font-size: 1.3em; text-transform: uppercase; line-height: 30px; } 
+ #banner-testi { height: auto; } 
+ #testimonial { padding-top: 24%; padding-bottom: 10%; } 
+ #banner2 { background-image: url(/assets/images/are-you-provider3.jpg); background-attachment: unset; padding: 20px 0px 40px 0px; background-repeat: no-repeat; height: auto; } 
+ #banner3 h1 { font-size: 1.4em; } 
+ }
+
+ @media only screen and (max-width:767px) { } 
+
+ @media only screen and (max-width: 480px){
+ .margin-choose { margin-bottom: 22%; } 
+.topBar { z-index: unset; } 
+ footer .footer-bottom p { text-align: center; font-size: 0.7em; } 
+ footer .footer-bottom img { float: none; display: block; margin: 0 auto; } 
+ #secure img { display: block; margin: 0 auto; } 
+ #chooseus .margin-t { margin-top: 20%; margin-bottom: 10%; } 
+ #whatcando h2 { font-size: 1.5em; } 
+ #mobile-comtability h2 { margin-top: 0px; } 
+ #mobile-comtability { padding-bottom: 60px; } 
+ #mobile-comtability h2 { font-size: 1.3em; } 
+ ul.top-navi-mob { text-align: center; } 
+ #chooseus p { padding-bottom: 5%; } 
+ .menuBtn { font-size: 1.2em } 
+ #contact-bg { background-image: url(/assets/images/contact-bg.jpg); background-size: cover; } 
+ #banner { height: auto; } 
+ .sticky-top { position: unset !important; } 
+ #benefits .circle { margin: 0 auto; } 
+ .text-custom { text-align: center; } 
+ #benefits h2.no-border-1 { padding-top: 14px; text-align: center; } 
+ #banner1 { background-attachment: unset; height: auto; } 
+ #banner1 h1 { font-size: 0.8em; line-height: 16px; } 
+ #benefits1 .trn { margin: 0 auto; } 
+ #banner-testi { background-attachment: unset; height:auto; } 
+ #banner-testi h1 { font-size: 1em; line-height: 25px; } 
+ #testimonial { padding-top: 76%; padding-bottom: 10%; } 
+ #banner p { font-size: 1em; } 
+ #banner h1 span { font-size: 0.5em; } 
+ #banner2 { background-attachment: unset; background-size: unset; background-repeat: no-repeat; background-position: 30% 20%; height: auto; } 
+#benefits1 h2 { color: #2f4e6a; font-size: 1.3em; } 
+#banner2 h1 { font-size: 1.2em; text-align: center; display: grid; color: white; text-transform: uppercase; text-shadow: 0px 0px 3px #000; } 
+#benefits2 h3 { padding: 10px; font-size: 1em; } 
+#benefits2 h2.no-border-1 { text-align: center; } 
+#banner3 h1 { font-size: 1.4em; } 
+.btn-ac span.book { text-align: center; } 
+#banner4 { background-attachment: unset; background-repeat: no-repeat; height: auto; background-position: center center; background-size: cover; } 
+#branding-bg { background-position: 75%; } 
+#branding-bg h1 { padding: 0%; color: white; text-transform: uppercase; font-size: 3em; padding-top: 165px; } 
+.card { overflow-x: scroll; overflow-y: hidden; white-space: nowrap; display: flex; flex-direction: unset !important; } 
+.nav-1 { flex-wrap: nowrap; } 
+.nav-1 li a { display: inline-block; } 
+ }
+
+ @media only screen and (min-width: 1270px) { } 
+
+ @media all and (max-width: 575px) and (min-width: 481px) { } 
+
+ @media only screen and (max-width:360px) { ul.top-navi-mob { font-size: 14px; } 
+ .navbar-brand { width: 82%; } 
+ }
+
+ @media only screen and (max-width:375px) { } 
+
+ @media only screen and (max-width:320px) { ul.top-navi-mob { font-size: 13px; } 
+ .navbar-brand { width: 250px; } 
+ }
